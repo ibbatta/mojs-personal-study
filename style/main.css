@@ -12,7 +12,7 @@ body {
 
 #app {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-basis: 100%;
     height: 100%;
     flex-wrap: wrap;
@@ -49,5 +49,11 @@ body {
 
 #test3 {
     color: rgba(255, 32, 110, 1);
+}
+
+@media screen and (min-width: 480px) {
+    #app {
+        flex-direction: row;
+    }
 }
 
