@@ -1,4 +1,4 @@
-# __PERSONAL REACT + REACT-ROUTER + REDUX + WEBPACK TODO LIST PROJECT__
+# __PERSONAL MO.JS STUDY CASE PROJECT__
 
 
 >This repo contains a personal template to study and test animation with mo.js
