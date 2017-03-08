@@ -1,0 +1,17 @@
+**/node_modules
+node_modules
+bower_components
+**/bower_components
+build
+dist
+**/.tmp
+**/*.tmp
+.sass-cache
+*.sublime-project
+*.sublime-workspace
+**/*.gz
+**/*.tar.gz
+coverage
+test
+.env
+**/*.log
