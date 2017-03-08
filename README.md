@@ -63,7 +63,7 @@ The package.json expose these tasks:
 ## __Credits__
 
 - [Maurizio Battaghini](https://github.com/ibbatta) (project develop)
-- - [Daniele Benzi](https://github.com/DanieleBenzi) (visual support)
+- [Daniele Benzi](https://github.com/DanieleBenzi) (visual support)
 
 
 ---
