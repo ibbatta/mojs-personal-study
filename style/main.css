@@ -27,6 +27,7 @@ body {
     height: 30%;
     justify-content: center;
     position: relative;
+    align-items: center;
 }
 
 #app .icobutton {
