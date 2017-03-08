@@ -17,7 +17,7 @@
 Before cloning the repo **be sure** you have installed:
 
 * [NodeJs & npm](http://nodejs.org/download/) (version >= 7.x)
-* [Yarn](https://yarnpkg.com/en/docs/install) (version >= 0.18.x)
+* [Yarn](https://yarnpkg.com/en/docs/install) (version >= 0.20.x)
 
 Then:
 
