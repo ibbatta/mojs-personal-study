@@ -24,7 +24,7 @@ body {
 #app .element {
     display: flex;
     flex-basis: 30%;
-    height: 30%;
+    height: auto;
     justify-content: center;
     position: relative;
     align-items: center;
