@@ -43,12 +43,24 @@ body {
     color: rgba(65, 234, 212, 1);
 }
 
+#test1:hover {
+    color: rgba(65, 234, 212, 0.7);
+}
+
 #test2 {
     color: rgba(242, 195, 0, 1);
 }
 
+#test2:hover {
+    color: rgba(242, 195, 0, 0.7);
+}
+
 #test3 {
     color: rgba(255, 32, 110, 1);
+}
+
+#test3:hover {
+    color: rgba(255, 32, 110, 0.7);
 }
 
 @media screen and (min-width: 480px) {
