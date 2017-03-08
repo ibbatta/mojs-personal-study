@@ -1,0 +1,52 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+}
+
+body {
+    background: rgba(241, 226, 215, 0.2);
+}
+
+#app {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+
+#app .element {
+    display: flex;
+    flex-basis: 30%;
+    height: 30%;
+    justify-content: center;
+    position: relative;
+}
+
+#app .icobutton {
+    font-size: 50px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    outline: none;
+    position: relative;
+}
+
+#test1 {
+    color: rgba(65, 234, 212, 1);
+}
+
+#test2 {
+    color: rgba(242, 195, 0, 1);
+}
+
+#test3 {
+    color: rgba(255, 32, 110, 1);
+}
+

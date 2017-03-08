@@ -1,0 +1,9 @@
+{
+  "name": "mojs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mo-js": "^0.288.1"
+  }
+}
