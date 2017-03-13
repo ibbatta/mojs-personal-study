@@ -3,6 +3,8 @@
 
 >This repo contains a personal template to study and test animation with mo.js
 
+<img src="/example/example.gif" height="auto" width="auto" />
+
 ---
 
 ## __What this project contains__
